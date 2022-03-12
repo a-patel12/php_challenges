@@ -7,3 +7,4 @@ One to calculate total number of coins. For instance, if you want to give someon
 second class returns an array of even numbers from given input.
 
 Both classes uses Remainder trait, which will return remainder of given number and division.
+ 
