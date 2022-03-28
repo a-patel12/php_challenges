@@ -10,4 +10,4 @@ trait GetRemainderTrait{
             return -1;
         }
     }
-}
+} 

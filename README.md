@@ -19,4 +19,4 @@ Both classes uses Remainder trait, which will return remainder of given number a
   - Years that are evenly divisible by 4 are leap years. 
   - Exception: Years that are evenly divisible by 100 are not leap years.
   - Exception to the exception: Years for which the remainder when divided by 900 is either 200 or 600 are leap years.
-- class LeapYear {} serves single purpose of finding leap year count using provided start and end year. We provide years during instance creation. so it is open for extention and closed for modification. i.e., count the weeks between years or count total days between years and so.
+  - class LeapYear {} serves single purpose of finding leap year count using provided start and end year. We provide years during instance creation. so it is open for extention and closed for modification. i.e., count the weeks between years or count total days between years and so.
